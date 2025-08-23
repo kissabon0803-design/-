@@ -1,0 +1,14 @@
+#test{
+    text-align: center;
+    color: red;
+}
+#result{
+    text-align: center;
+    font-size: large;
+}
+.button-container {
+   display: flex;
+   justify-content: center;
+      align-items: center;
+  
+}
